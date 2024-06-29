@@ -1,0 +1,50 @@
+﻿@model PropensityTracker.Models.Habit
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+@Html.Raw(ViewBag.DeleteMessage)
+
+<div class="delete-box">
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        <h4>Habit</h4>
+        <hr class="style-five" />
+        <dl class="dl-horizontal">
+            <dt>
+                <span>@Html.DisplayNameFor(model => model.Name)</span>
+            </dt>
+            <dd>
+                <span>@Html.DisplayFor(model => model.Name)</span>
+            </dd>
+            <dt>
+                <span>@Html.DisplayNameFor(model => model.Description)</span>
+            </dt>
+            <dd>
+                <span>@Html.DisplayFor(model => model.Description)</span>
+            </dd>
+            <dt>
+                <span>@Html.DisplayNameFor(model => model.Time)</span>
+            </dt>
+            <dd>
+                <span>@Html.DisplayFor(model => model.Time)</span>
+            </dd>
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        }
+        <div class="logout-link">
+            <a href="@Url.Action("Logout", "Accounts")" class="btn btn-link">Logout</a>
+        </div>
+    </div>
+</div>
