@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\models\\habitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\models\\habitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\models\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\models\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|c:\\users\\dell\\source\\repos\\propensitytrackercore\\propensitytrackercore\\propensitytrackercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53FD640D-A5CF-4404-8C75-12E7275D3E3B}|PropensityTrackerCore\\PropensityTrackerCore.csproj|solutionrelative:propensitytrackercore\\propensitytrackercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:05:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\HabitContext.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Models\\HabitContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\HabitContext.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Models\\HabitContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:24:27.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\Habit.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Models\\Habit.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\Habit.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Models\\Habit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:51:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\UserContext.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Models\\UserContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:24:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\UserMaster.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Models\\UserMaster.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Models\\UserMaster.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Models\\UserMaster.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:25:11.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\appsettings.json",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\appsettings.json",
+              "RelativeToolTip": "PropensityTrackerCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T23:36:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:02:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Program.cs",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Program.cs",
+              "RelativeToolTip": "PropensityTrackerCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:54:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "PropensityTrackerCore\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwPQkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:53:35.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PropensityTrackerCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:57:34.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PropensityTrackerCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:57:39.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PropensityTrackerCore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:57:32.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PropensityTrackerCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:57:28.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "PropensityTrackerCore\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:53:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropensityTrackerCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\PropensityTrackerCore.csproj",
+              "RelativeDocumentMoniker": "PropensityTrackerCore\\PropensityTrackerCore.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PropensityTrackerCore\\PropensityTrackerCore\\PropensityTrackerCore.csproj",
+              "RelativeToolTip": "PropensityTrackerCore\\PropensityTrackerCore.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T22:48:21.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "HomePage";
+}
+
+<h2>Propensity Tracker</h2>
+@Html.ActionLink("Login", "Login")
+@Html.ActionLink("Register", "Register")
+<p style="color:green;">@TempData["Registered"]</p>

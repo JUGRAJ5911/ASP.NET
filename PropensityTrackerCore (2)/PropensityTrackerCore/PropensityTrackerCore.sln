@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropensityTrackerCore", "PropensityTrackerCore\PropensityTrackerCore.csproj", "{53FD640D-A5CF-4404-8C75-12E7275D3E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FD640D-A5CF-4404-8C75-12E7275D3E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FD640D-A5CF-4404-8C75-12E7275D3E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FD640D-A5CF-4404-8C75-12E7275D3E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FD640D-A5CF-4404-8C75-12E7275D3E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B21A1B-5894-455B-A6F3-9BA985BD787A}
+	EndGlobalSection
+EndGlobal
